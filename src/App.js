@@ -5,12 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>KATA-KATA PENUH MAKNA</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>Mohon maaf !! Website Belum Bisa Ditampilkan</p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Belajar React JS
+          Masih Dalam Pengembangan oleh Developer
         </a>
       </header>
     </div>
